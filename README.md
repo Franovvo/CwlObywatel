@@ -1,4 +1,8 @@
-# TO CO JA TU WSM ROBIĘ?
-cwel jeden se uznał ze fobywatel bedzie za **40** ziko (cena karnetu w brawl stars), wiec ja uznałem ze zrobie to samo za **free**. Nie umiem programować, ale jakoś daje rade.
+# PO CO TO ROBIĘ?
+Z czystej pasji, chcę dawać ludzią przyjemność z... *kolekcjonerskiej* wersji mObywatela.
 # KIEDY BĘDZIE?
-Szczerze? Nie mam pojęcia, mam nadzieje ze do końca kwietnia się wyrobię. Stay tuned.
+Szczerze? Nie mam pojęcia, mam nadzieje ze do końca kwietnia się wyrobię. Prototypy można oglądać non-stop na **https://franovvo.github.io/CwlObywatel/**
+# CZEMU CWLOBYWATEL?
+Bo czemu nie. Cwl brzmi prawie jak "cwel", którym są twórcy płatnych wersji.
+# CHANGELOG
+28.03 - 0.0.1, Dodałem menu z większością przycisków (żaden nie jest użytkowy na tą chwilę);
