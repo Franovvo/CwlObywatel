@@ -8,12 +8,12 @@ const urlsToCache = [
   "/orzeu.jpg",
   "/notif.jpg",
   "/maintlo.jpg",
-  "/bezpieczenstwo.jpeg",
-  "/autko.jpeg",
-  "/tarcza.jpeg",
-  "/teczka.jpeg",
-  "/policja.jpeg",
-  "/bontowarowy.jpeg"
+  "/siec.jpg",
+  "/auto.jpg",
+  "/pesel.jpg",
+  "/teka.jpg",
+  "/czapa.jpg",
+  "/mandat.jpg"
 ];
 
 self.addEventListener("install", (event) => {
